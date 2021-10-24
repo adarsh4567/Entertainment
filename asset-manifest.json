@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/Entertainment/static/css/main.a91c2328.chunk.css",
-    "main.js": "/Entertainment/static/js/main.9d3a13c7.chunk.js",
-    "main.js.map": "/Entertainment/static/js/main.9d3a13c7.chunk.js.map",
+    "main.css": "/Entertainment/static/css/main.9c29f55b.chunk.css",
+    "main.js": "/Entertainment/static/js/main.2e547c38.chunk.js",
+    "main.js.map": "/Entertainment/static/js/main.2e547c38.chunk.js.map",
     "runtime-main.js": "/Entertainment/static/js/runtime-main.dee1eabf.js",
     "runtime-main.js.map": "/Entertainment/static/js/runtime-main.dee1eabf.js.map",
     "static/css/2.af3ab7ac.chunk.css": "/Entertainment/static/css/2.af3ab7ac.chunk.css",
@@ -10,14 +10,14 @@
     "static/js/2.878f3813.chunk.js.map": "/Entertainment/static/js/2.878f3813.chunk.js.map",
     "index.html": "/Entertainment/index.html",
     "static/css/2.af3ab7ac.chunk.css.map": "/Entertainment/static/css/2.af3ab7ac.chunk.css.map",
-    "static/css/main.a91c2328.chunk.css.map": "/Entertainment/static/css/main.a91c2328.chunk.css.map",
+    "static/css/main.9c29f55b.chunk.css.map": "/Entertainment/static/css/main.9c29f55b.chunk.css.map",
     "static/js/2.878f3813.chunk.js.LICENSE.txt": "/Entertainment/static/js/2.878f3813.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.dee1eabf.js",
     "static/css/2.af3ab7ac.chunk.css",
     "static/js/2.878f3813.chunk.js",
-    "static/css/main.a91c2328.chunk.css",
-    "static/js/main.9d3a13c7.chunk.js"
+    "static/css/main.9c29f55b.chunk.css",
+    "static/js/main.2e547c38.chunk.js"
   ]
 }
